@@ -309,6 +309,7 @@ class StockMarketAPI
 		}
 	}
 }
+?>
 
 <h1>Current Stock Information for AAPL</h1>
 
